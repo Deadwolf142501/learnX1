@@ -1,0 +1,184 @@
+.topo{
+  position: absolute;
+  height: 50px;
+  width: auto;
+  left:50px;
+  top: 420px;
+  transform:skew(-30deg);
+  opacity: 50%;
+}
+.gh{
+  width:200px;
+  height:150px;
+}
+.lolo{
+  position: absolute;
+  height: 80px;
+  width: auto;
+  left:520px;
+  top: 470px;
+
+  opacity: 50%;
+}
+.popo{
+  position: absolute;
+  height: 80px;
+  width: auto;
+  left:650px;
+  top: 175px;
+  transform:skew(-30deg);
+  opacity: 50%;
+}
+
+.img-vec {
+  height: auto;
+  width: 40%;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+.comp{
+background-color: #F49D1A;
+opacity: 90%;
+border-radius: 30px 0 30px 0;
+
+}
+
+
+.nav-item {
+  padding: 0 30px;
+  margin-right: 10px;
+}
+
+.com{
+  width:200px;
+  height:125px;
+  margin-top: 50px;
+  border-radius: 20px 0 20px 0;
+  margin-right: 30px;
+  margin-bottom: 50px;
+
+}
+.navbar {
+  padding: 0 0 4.5rem;
+  margin-left: 80px;
+  margin-right: 30px;
+
+}
+
+.h1size {
+  margin-top: 100px;
+  color: #6E3CBC;
+
+}
+
+.lx {
+  font-size: 80px;
+  font-weight: bolder;
+  font-family: 'Asar', serif;
+  margin-left: 100px;
+  margin-bottom: 150px;
+}
+
+.navbar-brand {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: bold;
+}
+.i-head {
+  margin-top: 150px;
+  font-family: 'Noto Serif', serif;
+
+}
+.a-head {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-family: 'Noto Serif', serif;
+
+}
+.c-head {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  font-family: 'Noto Serif', serif;
+}
+.item{
+  margin-top: 100px;
+  margin-bottom: auto;
+  margin-right: 30px;
+  display: flex;
+}
+
+.white{
+  color:#7c7676;
+  height: 70px;
+  box-shadow:  10px 10px 10px 10px #7c7676;
+}
+i{
+  padding:5px;
+}
+
+.abtimg{
+  height: auto;
+  width: 40%;
+  border-radius: 30px 0 30px 0;
+}
+.abt{
+  margin-bottom: 100px;
+}
+.aut{
+font-family: 'Noto Serif', serif;
+margin-left: 100px;
+}
+.a{
+  position: relative;
+  height: 80px;
+  width: auto;
+  opacity:50%;
+  left: 675px;
+  top:300px;
+  transform:skew(-20deg);
+}
+.b{
+  position: relative;
+  height: 80px;
+  width: auto;
+  opacity:50%;
+  left: 1100px;
+  top:100px;
+
+}
+
+.c{
+position: relative;
+height: 80px;
+width: auto;
+opacity:50%;
+left: 100px;
+top:50px;
+}
+
+.d{
+position: relative;
+  height: 80px;
+  width: auto;
+  opacity:50%;
+  left: 900px;
+  top:500px;
+transform:skew(10deg);
+}
+
+
+.e{
+  position: relative;
+  height: 80px;
+  width: auto;
+  opacity:50%;
+  left: 950px;
+  top:50px;
+
+}
